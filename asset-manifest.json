@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/yogesh-port-folio/static/css/main.0d8535f8.css",
+    "main.js": "/yogesh-port-folio/static/js/main.9b03a6eb.js",
+    "static/media/photo.png": "/yogesh-port-folio/static/media/photo.a8969c574be4a5b25080.png",
+    "static/media/quote.png": "/yogesh-port-folio/static/media/quote.773f5ff15b876633a019.png",
+    "static/media/gz.png": "/yogesh-port-folio/static/media/gz.a9a37537eabd855f9a67.png",
+    "static/media/java.png": "/yogesh-port-folio/static/media/java.86f117e152801d313ac4.png",
+    "static/media/blog.png": "/yogesh-port-folio/static/media/blog.e0735af4c52f8691cfe7.png",
+    "static/media/jovac.png": "/yogesh-port-folio/static/media/jovac.d2aff64bc800792580b5.png",
+    "static/media/pro.png": "/yogesh-port-folio/static/media/pro.18d22aabad09080c73b2.png",
+    "static/media/ml.png": "/yogesh-port-folio/static/media/ml.1cc99ce8d1735866e582.png",
+    "static/media/resume.jpeg": "/yogesh-port-folio/static/media/resume.7e1dbfa17e6f1b6cd4b4.jpeg",
+    "static/media/htm_l.png": "/yogesh-port-folio/static/media/htm_l.379cd91f7946b2ca30a9.png",
+    "static/media/glassesimoji.png": "/yogesh-port-folio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/portfolio.png": "/yogesh-port-folio/static/media/portfolio.52986e97a98ae35103f8.png",
+    "static/media/todo.png": "/yogesh-port-folio/static/media/todo.36a2ddd237d48bd9c9b4.png",
+    "static/media/thumbup.png": "/yogesh-port-folio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/yogesh-port-folio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/yogesh-port-folio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/yogesh-port-folio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/yogesh-port-folio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/yogesh-port-folio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/yogesh-port-folio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/yogesh-port-folio/index.html",
+    "main.0d8535f8.css.map": "/yogesh-port-folio/static/css/main.0d8535f8.css.map",
+    "main.9b03a6eb.js.map": "/yogesh-port-folio/static/js/main.9b03a6eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d8535f8.css",
+    "static/js/main.9b03a6eb.js"
+  ]
+}
